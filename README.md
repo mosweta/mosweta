@@ -27,7 +27,15 @@
 ### 📂 Featured Projects
 *Recruiters: Check out these pinned repositories for full code architecture!*
 
-1. **Bizika** - A full-stack react application learning management system. Built with React, Firebase, and Tailwind.
+#### 🎓 Full-Stack & Enterprise Solutions
+*   **Bizika LMS**: A modular web-based learning management platform designed to support course delivery, learner engagement, and performance analytics. *(React, Firebase, Tailwind)*
+*   **Drug-dispensing-tool**: A role-based prescription routing and inventory management system designed to eliminate medical handwriting errors and automate stock auditing. *(PHP)*
+*   **Deliveroo**: A comprehensive courier management platform for creating, managing, and tracking parcel delivery orders. *(JavaScript)*
 
----
+#### 🧠 AI & Data Science
+*   **Hypertension-Prediction**: My final year academic project. Uses a Random Forest model with OpenAI ChatGPT-4 integration to provide personalized health recommendations. *(JavaScript)*
+
+#### 🛠️ Backend & APIs
+*   **Workout-API**: A RESTful API built with Flask that allows users to manage workouts, exercises, and routines. *(Python)*
+*   **Cargiza**: A Python-based CLI application for managing car rentals, vehicle inventory, and customer bookings. *(Python)*
 
