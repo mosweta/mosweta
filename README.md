@@ -2,7 +2,7 @@
   <img src="./mosweta-profile-banner.svg" alt="Profile Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Deogracious</h1>
+<h1 align="center">Hi, I'm Deogracious</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
 -  I’m currently learning **next.js, flask, typescript**
