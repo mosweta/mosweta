@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Deogracious</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-- 🌱 I’m currently learning **next.js, flask, typescript**
+-  I’m currently learning **next.js, flask, typescript**
 
-- 💬 Ask me about **react html css javascript python**
+-  Ask me about **react html css javascript python**
 
-- 📫 How to reach me **deograciousmoriasi10@gmail.com**
+-  How to reach me **deograciousmoriasi10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,18 +24,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosweta&show_icons=true&locale=en" alt="mosweta-school" /></p>
 
 
-### 📂 Featured Projects
+###  Featured Projects
 *Recruiters: Check out these pinned repositories for full code architecture!*
 
-#### 🎓 Full-Stack & Enterprise Solutions
+####  Full-Stack & Enterprise Solutions
 *   **Bizika LMS**: A modular web-based learning management platform designed to support course delivery, learner engagement, and performance analytics. *(React, Firebase, Tailwind)*
 *   **Drug-dispensing-tool**: A role-based prescription routing and inventory management system designed to eliminate medical handwriting errors and automate stock auditing. *(PHP)*
 *   **Deliveroo**: A comprehensive courier management platform for creating, managing, and tracking parcel delivery orders. *(JavaScript)*
 
-#### 🧠 AI & Data Science
+####  AI & Data Science
 *   **Hypertension-Prediction**: My final year academic project. Uses a Random Forest model with OpenAI ChatGPT-4 integration to provide personalized health recommendations. *(JavaScript)*
 
-#### 🛠️ Backend & APIs
+####  Backend & APIs
 *   **Workout-API**: A RESTful API built with Flask that allows users to manage workouts, exercises, and routines. *(Python)*
 *   **Cargiza**: A Python-based CLI application for managing car rentals, vehicle inventory, and customer bookings. *(Python)*
 
